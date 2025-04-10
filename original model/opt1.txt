@@ -1,0 +1,128 @@
+C:\Users\Asus\Desktop\project3.doe
+8/19/2020 12:35:10 AM
+  
+New Objective:  23400000  Feasible
+opt1:  6
+opt2:  2
+opt3:  5
+  
+New Objective:  23400000  Feasible
+opt1:  6
+opt2:  3
+opt3:  4
+  
+New Objective:  23400000  Feasible
+opt1:  5
+opt2:  3
+opt3:  5
+  
+New Objective:  25200000  Feasible
+opt1:  6
+opt2:  3
+opt3:  5
+  
+New Objective:  25200000  Feasible
+opt1:  8
+opt2:  1
+opt3:  5
+  
+New Objective:  27000000  Feasible
+opt1:  6
+opt2:  5
+opt3:  4
+  
+New Objective:  27000000  Feasible
+opt1:  5
+opt2:  4
+opt3:  6
+  
+New Objective:  28800000  Feasible
+opt1:  6
+opt2:  6
+opt3:  4
+  
+New Objective:  28800000  Feasible
+opt1:  6
+opt2:  2
+opt3:  8
+  
+New Objective:  28800000  Feasible
+opt1:  5
+opt2:  5
+opt3:  6
+  
+New Objective:  28800000  Feasible
+opt1:  6
+opt2:  4
+opt3:  6
+  
+New Objective:  28800000  Feasible
+opt1:  5
+opt2:  6
+opt3:  5
+  
+New Objective:  30600000  Feasible
+opt1:  7
+opt2:  6
+opt3:  4
+  
+New Objective:  30600000  Feasible
+opt1:  7
+opt2:  7
+opt3:  3
+  
+New Objective:  30600000  Feasible
+opt1:  5
+opt2:  6
+opt3:  6
+  
+New Objective:  30600000  Feasible
+opt1:  8
+opt2:  4
+opt3:  5
+  
+New Objective:  30600000  Feasible
+opt1:  5
+opt2:  7
+opt3:  5
+  
+New Objective:  32400000  Feasible
+opt1:  9
+opt2:  5
+opt3:  4
+  
+New Objective:  32400000  Feasible
+opt1:  7
+opt2:  7
+opt3:  4
+  
+New Objective:  32400000  Feasible
+opt1:  9
+opt2:  4
+opt3:  5
+  
+New Objective:  32400000  Feasible
+opt1:  6
+opt2:  4
+opt3:  8
+  
+New Objective:  32400000  Feasible
+opt1:  5
+opt2:  8
+opt3:  5
+  
+New Objective:  34200000  Feasible
+opt1:  9
+opt2:  6
+opt3:  4
+  
+New Objective:  34200000  Feasible
+opt1:  8
+opt2:  6
+opt3:  5
+  
+New Objective:  34200000  Feasible
+opt1:  11
+opt2:  4
+opt3:  4
+  

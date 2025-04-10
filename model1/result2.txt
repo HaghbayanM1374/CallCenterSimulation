@@ -1,0 +1,153 @@
+C:\Users\Asus\Desktop\project4.doe
+8/21/2020 10:51:38 AM
+  
+New Objective:  27200000  Feasible
+opt1:  6
+opt2:  4
+opt3:  3
+opt4:  2
+  
+New Objective:  27200000  Feasible
+opt1:  5
+opt2:  4
+opt3:  3
+opt4:  3
+  
+New Objective:  27200000  Feasible
+opt1:  6
+opt2:  2
+opt3:  5
+opt4:  2
+  
+New Objective:  27200000  Feasible
+opt1:  5
+opt2:  3
+opt3:  5
+opt4:  2
+  
+New Objective:  27200000  Feasible
+opt1:  5
+opt2:  2
+opt3:  6
+opt4:  2
+  
+New Objective:  29000000  Feasible
+opt1:  6
+opt2:  4
+opt3:  3
+opt4:  3
+  
+New Objective:  29000000  Feasible
+opt1:  6
+opt2:  4
+opt3:  4
+opt4:  2
+  
+New Objective:  29000000  Feasible
+opt1:  6
+opt2:  2
+opt3:  6
+opt4:  2
+  
+New Objective:  29000000  Feasible
+opt1:  6
+opt2:  2
+opt3:  5
+opt4:  3
+  
+New Objective:  29000000  Feasible
+opt1:  7
+opt2:  2
+opt3:  5
+opt4:  2
+  
+New Objective:  29000000  Feasible
+opt1:  5
+opt2:  3
+opt3:  5
+opt4:  3
+  
+New Objective:  30800000  Feasible
+opt1:  5
+opt2:  4
+opt3:  3
+opt4:  5
+  
+New Objective:  30800000  Feasible
+opt1:  8
+opt2:  4
+opt3:  3
+opt4:  2
+  
+New Objective:  30800000  Feasible
+opt1:  6
+opt2:  2
+opt3:  5
+opt4:  4
+  
+New Objective:  30800000  Feasible
+opt1:  6
+opt2:  2
+opt3:  6
+opt4:  3
+  
+New Objective:  30800000  Feasible
+opt1:  5
+opt2:  2
+opt3:  6
+opt4:  4
+  
+New Objective:  32600000  Feasible
+opt1:  7
+opt2:  5
+opt3:  3
+opt4:  3
+  
+New Objective:  32600000  Feasible
+opt1:  5
+opt2:  4
+opt3:  7
+opt4:  2
+  
+New Objective:  32600000  Feasible
+opt1:  7
+opt2:  2
+opt3:  6
+opt4:  3
+  
+New Objective:  32600000  Feasible
+opt1:  6
+opt2:  3
+opt3:  5
+opt4:  4
+  
+New Objective:  32600000  Feasible
+opt1:  5
+opt2:  2
+opt3:  9
+opt4:  2
+  
+New Objective:  32600000  Feasible
+opt1:  10
+opt2:  2
+opt3:  4
+opt4:  2
+  
+New Objective:  34400000  Feasible
+opt1:  8
+opt2:  5
+opt3:  4
+opt4:  2
+  
+New Objective:  34400000  Feasible
+opt1:  7
+opt2:  6
+opt3:  3
+opt4:  3
+  
+New Objective:  34400000  Feasible
+opt1:  6
+opt2:  7
+opt3:  3
+opt4:  3
+  
